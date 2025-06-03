@@ -35,5 +35,6 @@ bash build.sh
    - Option 2: Exit the program
 3. The generated password will be displayed on screen
 
-> Author: hax
- 
+## 🖤 Author
+
+Made by **Hax** — [github.com/emptyhax](https://github.com/emptyhax)
